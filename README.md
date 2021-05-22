@@ -14,10 +14,10 @@ Sreenshots :
 
 ![image](https://user-images.githubusercontent.com/65851817/119237150-10024600-bb59-11eb-8d39-d48a9a8cc019.png)
 
-OTP :
+OTP :<br /> 
 ![image](https://user-images.githubusercontent.com/65851817/119237158-1690bd80-bb59-11eb-80c4-2a0621d6288a.png)
 
-Captcha :
+Captcha :<br /> 
 ![image](https://user-images.githubusercontent.com/65851817/119237163-1db7cb80-bb59-11eb-8901-883de3c29690.png)
 
 ![image](https://user-images.githubusercontent.com/65851817/119237178-2d371480-bb59-11eb-9bbd-83024e008d08.png)
@@ -26,10 +26,10 @@ Captcha :
 
 ![image](https://user-images.githubusercontent.com/65851817/119237189-39bb6d00-bb59-11eb-83f1-291471ad847c.png)
 
-![image](https://user-images.githubusercontent.com/65851817/119237501-c581c900-bb5a-11eb-83ba-372e8452502b.png)
-
 
 ![image](https://user-images.githubusercontent.com/65851817/119237195-3e802100-bb59-11eb-9212-2969ef982a43.png)
+
+![image](https://user-images.githubusercontent.com/65851817/119237501-c581c900-bb5a-11eb-83ba-372e8452502b.png)
 
 ![image](https://user-images.githubusercontent.com/65851817/119237210-50fa5a80-bb59-11eb-8ea8-06abd0d24475.png)
 
