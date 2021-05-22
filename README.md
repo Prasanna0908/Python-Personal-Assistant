@@ -26,7 +26,7 @@ Captcha :
 
 ![image](https://user-images.githubusercontent.com/65851817/119237189-39bb6d00-bb59-11eb-83f1-291471ad847c.png)
 
-![image](https://user-images.githubusercontent.com/65851817/119237202-49d34c80-bb59-11eb-999e-671d3d7f6d0c.png)
+![image](https://user-images.githubusercontent.com/65851817/119237501-c581c900-bb5a-11eb-83ba-372e8452502b.png)
 
 
 ![image](https://user-images.githubusercontent.com/65851817/119237195-3e802100-bb59-11eb-9212-2969ef982a43.png)
