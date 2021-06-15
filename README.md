@@ -3,6 +3,10 @@
 Video :
 https://drive.google.com/file/d/1wLEMTtHvUKXUY5tvkZLyYyvHBNT_iFNx/view
 
+ER Diagram :
+
+![image](https://user-images.githubusercontent.com/65851817/122113560-e67ac880-ce3f-11eb-8f9d-c799ad4020cd.png)
+
 Sreenshots :
 
 ![image](https://user-images.githubusercontent.com/65851817/119237135-024cc080-bb59-11eb-83aa-b6488a3148e8.png)
